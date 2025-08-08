@@ -4,9 +4,9 @@ using namespace std;
 int main()
 {
     cout<<"====================================\n";
-    cout<<"== CALCULATE YOUR AGE APPLICATION ==\n";
+    cout<<"== CALCULATE YOUR AGE APP ==\n";
     cout<<"====================================\n";
-    cout<< "Enter Your Age: \n";
+    cout<< "Please Enter Your  Age: \n";
     int age=0;
     cin>> age;
     int age_in_days =age *365;
